@@ -1,4 +1,4 @@
-# THE QUISAGE
+# DEBBIE QUISAGE
 
 A simple, command-line quiz application written in C This project demonstrates basic C programming concepts, including functions, loops, and conditional statements, to deliver a fun and interactive trivia experience.
 
@@ -15,8 +15,8 @@ This is the easiest way to run the program if you already use Visual Studio Code
 
 1.  VS Code: Installed on your machine.
 2.  C/C++ Extension: Installed in VS Code /*(Search for **`ms-vscode.cpptools`**).*/
-3.  **Code Runner Extension:** (Optional, but useful) Installed in VS Code (Search for **`formulahendry.code-runner`**).
-4.  **C Compiler:** Ensure a compiler (like GCC) is installed and accessible via your system's PATH.
+3.  Code Runner Extension: (Optional, but useful) Installed in VS Code (Search for **`formulahendry.code-runner`**).
+4.  C Compiler: Ensure a compiler (like GCC) is installed and accessible via your system's PATH.
 
 ### Steps
 
